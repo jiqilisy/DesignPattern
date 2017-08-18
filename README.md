@@ -6,3 +6,4 @@
 * Adapter Pattern 适配器模式
 * Bridge Pattern 桥接模式
 * Filter Pattern 过滤器模式
+* Composite Pattern 组合模式
