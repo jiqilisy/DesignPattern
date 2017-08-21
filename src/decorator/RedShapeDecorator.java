@@ -9,6 +9,11 @@ package decorator;
  */
 public class RedShapeDecorator extends ShapeDecorator {
 
+    /**
+     * Instantiates a new Red shape decorator.
+     *
+     * @param decoratedShape the decorated shape
+     */
     public RedShapeDecorator(Shape decoratedShape) {
         super(decoratedShape);
     }

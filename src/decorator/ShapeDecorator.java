@@ -9,8 +9,16 @@ package decorator;
  */
 public class ShapeDecorator implements Shape{
 
+    /**
+     * The Decorated shape.
+     */
     protected Shape decoratedShape;
 
+    /**
+     * Instantiates a new Shape decorator.
+     *
+     * @param decoratedShape the decorated shape
+     */
     public ShapeDecorator(Shape decoratedShape){
         this.decoratedShape = decoratedShape;
     }

@@ -8,5 +8,8 @@ package decorator;
  * Time: 19:05
  */
 public interface Shape {
+    /**
+     * Draw.
+     */
     void draw();
 }

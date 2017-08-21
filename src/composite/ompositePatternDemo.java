@@ -8,6 +8,11 @@ package composite;
  * Time: 11:52
  */
 public class ompositePatternDemo {
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         Employee CEO = new Employee("John","CEO", 30000);
 

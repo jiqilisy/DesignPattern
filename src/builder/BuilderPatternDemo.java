@@ -8,6 +8,11 @@ package builder;
  * Time: 13:37
  */
 public class BuilderPatternDemo {
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         MealBuilder mealBuilder = new MealBuilder();
 

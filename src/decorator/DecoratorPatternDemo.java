@@ -8,6 +8,11 @@ package decorator;
  * Time: 19:12
  */
 public class DecoratorPatternDemo {
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
 
         Shape circle = new Circle();
