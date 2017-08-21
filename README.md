@@ -7,3 +7,4 @@
 * Bridge Pattern 桥接模式
 * Filter Pattern 过滤器模式
 * Composite Pattern 组合模式
+* Decorator Pattern 装饰器模式
