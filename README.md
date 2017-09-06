@@ -9,3 +9,4 @@
 * Composite Pattern 组合模式
 * Decorator Pattern 装饰器模式
 * Facade Pattern 外观模式
+* Flyweight Pattern 享元模式
